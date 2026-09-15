@@ -33,11 +33,25 @@
     ],
     "thumbnails": [
       {
-        "name": "planner-agent.png",
+        "name": "inline.png",
         "type": "image",
         "order": 100,
-        "url": "https://github.com/pnp/spfx-copilot-components/raw/main/samples/my-projects-agent/assets/planner-agent.png",
-        "alt": "My Planner Projects Agent icon"
+        "url": "https://github.com/pnp/spfx-copilot-components/raw/main/samples/my-projects-agent/assets/inline.png",
+        "alt": "My Planner Projects Agent inline image"
+      },
+       {
+        "name": "expand.png",
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/spfx-copilot-components/raw/main/samples/my-projects-agent/assets/expand.png",
+        "alt": "My Planner Projects Agent expand image"
+      },
+       {
+        "name": "gantt.png",
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/spfx-copilot-components/raw/main/samples/my-projects-agent/assets/gantt.png",
+        "alt": "My Planner Projects Agent gantt image"
       }
     ],
     "authors": [
